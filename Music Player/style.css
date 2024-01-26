@@ -546,6 +546,10 @@ header .song_side nav .search .search_results .card .content {
     color: #fff;
 }
 
+#alen-bmre{
+    color: white;
+}
+
 header .song_side nav .search .search_results .card .content .subtitle {
     font-size: 11px;
     color: #a4a8b4;
